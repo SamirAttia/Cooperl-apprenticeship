@@ -1,4 +1,4 @@
-
+#Projet-Pole-Sante 
 The objective of this project is to develop the CGE Pôle Santé application – a monthly commercial activity tracking system within the Cooperl cooperative.
 
 This application will enable managers within the group to monitor the monthly commercial activity of the health division, providing tools for data collection, analysis, and visualization to support informed strategic decision-making.
